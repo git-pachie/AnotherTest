@@ -43,7 +43,7 @@
 		0C9FB0E31F1E5C0100490013 = {
 			isa = PBXGroup;
 			children = (
-				0C9FB1041F1E6A2B00490013 /* abc.mp3 */,
+				0C9FB1061F1E757F00490013 /* Media */,
 				0C9FB0EE1F1E5C0100490013 /* MusicPlayer */,
 				0C9FB0ED1F1E5C0100490013 /* Products */,
 				0C9FB1011F1E5CA600490013 /* Frameworks */,
@@ -77,6 +77,14 @@
 				0C9FB1021F1E5CA600490013 /* AVFoundation.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0C9FB1061F1E757F00490013 /* Media */ = {
+			isa = PBXGroup;
+			children = (
+				0C9FB1041F1E6A2B00490013 /* abc.mp3 */,
+			);
+			name = Media;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
